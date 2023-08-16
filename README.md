@@ -10,7 +10,7 @@ This work aims at identifying the impact of electrification on loadshapes for th
 We can divide states into three categories:
 - Those with a set target year for full decarbonization/electrification and that have started adopting these policies: CA, NY, MA, IL, MI, FL
 - Those with a set target year and but have yet to begin adoption: PA
-- Those that have no target set and we assume will follow the market: OH, TX, and all others (excluding HI)
+- Those that have no target set and we assume will follow the market: OH, TX, and all others (excluding HI and AK)
 
 The target year and adoption rates for each state are inputs in this analysis and can be adjusted as the market evolves. The current assumption of our model can be found in [this JSON file](https://github.com/slacgismo/electrification-loadshape-analysis/blob/main/task2_report_national/inputs.json). If desired, these values can be adjusted.
 
